@@ -1,4 +1,4 @@
-# leetcodeEveryDay
+# LeetcodeEveryDay
 fight for a job
 
 **2018/1/4**: [2-SUM](./2-SUM.md)
@@ -9,4 +9,4 @@ fight for a job
 
 **2018/1/29:** [Most Frequent Subtree Sum](./MostFrequentSubtreeSum.md)
 
-**2018/1/30:** [4Sum Ⅱ](./4Sum Ⅱ.md)
+**2018/1/30:** [4Sum Ⅱ](./4SumⅡ.md)
