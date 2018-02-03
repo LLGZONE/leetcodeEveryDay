@@ -14,3 +14,7 @@ fight for a job
 **2018/1/31:** [3Sum](./3Sum.md)
 
 **2018/2/1:** [Group Anagrams](./GroupAnagrams.md)
+
+**2018/2/2:** [MergeIntervals](./MergeIntervals.md)
+
+**2018/2/3:** [InsertInterval](./InsertInterval.md)
