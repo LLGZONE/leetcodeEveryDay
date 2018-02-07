@@ -24,3 +24,5 @@ fight for a job
 **2018/2/5:** [BasicCalculatorⅡ](./BasicCalculatorⅡ.md)
 
 **2018/2/6:** [SpiralMatrix](./SpiralMatrix.md)
+
+**2018/2/7:** [CombinationSum](./CombinationSum.md)
