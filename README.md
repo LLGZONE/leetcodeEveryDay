@@ -22,3 +22,5 @@ fight for a job
 **2018/2/4:** [BasicCalculator](./BasicCalculator.md)
 
 **2018/2/5:** [BasicCalculatorⅡ](./BasicCalculatorⅡ.md)
+
+**2018/2/6:** [SpiralMatrix](./SpiralMatrix.md)
