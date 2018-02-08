@@ -29,15 +29,14 @@ A solution set is:
  */
 var combinationSum = function(candidates, target) {
     const sol = []
-    candidates.sort((a,b) => a - b)
     function backtrace(target, index, tlist) {
         if (target < 0) return
         else if (target === 0) {
-            sol.push(tlist)
+            sol.push(tlist.slice())
         } else {
             for (let i = index; i < candidates.length; i++) {
                 tlist.push(candidates[i])
-                backtrace(target - candidates[i], i, tlist.slice())
+                backtrace(target - candidates[i], i, tlist)
                 tlist.pop() // 回溯
             }
         }
